@@ -7,3 +7,5 @@
 - commonJs（基础）
 
 - commonJsGame （用commonJS实现该游戏）
+
+## EventEmitter
