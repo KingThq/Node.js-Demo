@@ -9,3 +9,5 @@
 - commonJsGame （用commonJS实现该游戏）
 
 ## EventEmitter
+
+## Promise
