@@ -15,3 +15,9 @@
 ## koa-game
 
 - 用koa实现剪刀石头布游戏
+
+## RPC
+
+- duplex 全双工通信
+
+- half-duplex 半双工通信
